@@ -39,7 +39,7 @@ G -->|dash| Q((Q))
 ```bash
 git clone https://github.com/andreas-hkr/MorseTree.git
 cd MorseTree
-python main.py
+python3 main.py
 ```
 2. Fetch and run directly:
 ```bash
