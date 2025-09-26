@@ -43,7 +43,7 @@ python3 main.py
 ```
 2. Fetch and run directly:
 ```bash
-curl -L https://raw.githubusercontent.com/andreas-hkr/MorseTree/main/main.py | python3
+python3 <(curl -sL https://raw.githubusercontent.com/andreas-hkr/MorseTree/main/main.py)
 ```
 
 **WARNING:** The direct fetch method may pose security risks. Review the code before executing it.
